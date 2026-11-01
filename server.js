@@ -11,8 +11,8 @@ app.get('/', (request, response) => {
 // About route
 app.get('/about', (request, response) => {
   response.status(200).json({
-    name: 'Namrata',
-    section: 'AI/DE-2B'
+    name: 'V. LAKSHMI PRAVALLIKA',
+    section: 'CSE-2E'
   })
 })
 
